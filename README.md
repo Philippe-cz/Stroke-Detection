@@ -1,5 +1,5 @@
 # Stroke-Detection
-<b>Stroke Prediction Dataset</b>
+<b>Stroke Prediction Dataset</b><br>
 Dataset include information about 5110 patients, each row represents patient information with label whether he got stroke or not. Based on dataset we try to train a model to get best predictor of patient having a risk of stroke.
 
 Source:https://www.kaggle.com/fedesoriano/stroke-prediction-dataset<br>
